@@ -4,7 +4,7 @@ export const experienceData = [
     company: "PT Picotel Nusantara",
     jobtitle: "Software Engineer I",
     startYear: "Agust 2022",
-    endYear: "November 2023",
+    endYear: "November 2024",
   },
   // {
   //     id: 2,
